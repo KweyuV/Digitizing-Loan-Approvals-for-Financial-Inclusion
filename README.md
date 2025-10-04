@@ -1,3 +1,4 @@
+![Header Image](images/header_image.png)
 # Digitizing Loan Approvals for Financial Inclusion: A Machine Learning Approach for Kenyan Microfinance Institutions (MFI's) and Digital Lenders
 
 ## Business Problem

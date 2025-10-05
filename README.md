@@ -43,7 +43,6 @@ Kenyan microfinance institutions (MFIs) and digital lenders face challenges in a
    - Handle class imbalance with SMOTE
    - Models - Logistic Regression, Random Forest, XGBoost, Stacking ensemble
    - Evaluate with ROC-AUC, PR-AUC, F1-score
-   - Example:
      ![Precision-Recall Curve](images/Precision_Recall_Curve.png)
 
 4. **Deployment**
@@ -67,7 +66,7 @@ To execute all cells in the notebook and generate all outputs and visualizations
    - Process the data
    - Engineer features
    - Train and evaluate models
-   - Generate and save all plots to the `assets/` folder
+   - Generate and save all plots to the `images/` folder
    - Output predictions and explanations
 
 **Tip:** If you encounter any errors, make sure all dependencies are installed (see the section on installing dependencies) and restart the kernel before running all cells again.

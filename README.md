@@ -71,6 +71,12 @@ To execute all cells in the notebook and generate all outputs and visualizations
 
 **Tip:** If you encounter any errors, make sure all dependencies are installed (see the section on installing dependencies) and restart the kernel before running all cells again.
 
+Here is a link to the live application :
+
+**Live App:** https://fair-loan-approval-app-25c2e9f7563b.herokuapp.com/
+
+Or click: [Loan Approval Predictor (Heroku)](https://fair-loan-approval-app-25c2e9f7563b.herokuapp.com/)
+
 
 ## Visualizations
 - Loan amount, Interest rate, Loan status, Loan grade by loan status, PR curve.
